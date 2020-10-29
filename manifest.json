@@ -1,0 +1,22 @@
+{
+  "name": "devops-tickx-link.js",
+  "version": "0.1.0",
+  "description": "Render Links in DevOps to TickX Tickets.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+      ],
+      "js": [
+        "devops-tickx-link.js",
+        "jquery.min.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "manifest_version": 2
+}
