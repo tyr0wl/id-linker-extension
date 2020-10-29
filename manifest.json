@@ -1,14 +1,14 @@
 {
-  "name": "devops-tickx-link.js",
+  "name": "id-linker.js",
   "version": "0.1.0",
-  "description": "Render Links in DevOps to TickX Tickets.",
+  "description": "Adds a clickable link to Ids on websites.",
   "permissions": [],
   "content_scripts": [
     {
       "matches": [
       ],
       "js": [
-        "devops-tickx-link.js",
+        "id-linker.js",
         "jquery.min.js"
       ],
       "run_at": "document_end"

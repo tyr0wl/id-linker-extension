@@ -1,6 +1,6 @@
 {
-  "name": "devops-tickx-link",
-  "version": "1.0.0",
+  "name": "id-linker-extension",
+  "version": "0.1.0",
   "main": "index.js",
   "repository": "https://github.com/tyr0wl/link-replace-extension",
   "author": "tyr0wl",

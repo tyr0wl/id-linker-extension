@@ -1,7 +1,7 @@
 
-# Link replace extension
+# Id linker extension
 
-replace Id strings with links to the actual items on other websites.
+Adds a clickable link to Ids on websites.
 
 ## Install
 
