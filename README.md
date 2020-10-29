@@ -1,7 +1,7 @@
 
-# DevOps-TickX-Link
+# Link replace extension
 
-Render Links in DevOps to TickX Tickets
+replace Id strings with links to the actual items on other websites.
 
 ## Install
 
