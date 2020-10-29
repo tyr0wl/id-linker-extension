@@ -1,7 +1,9 @@
 
 # Id linker extension
 
-Adds a clickable link to Ids on websites.
+Adds a clickable link to Ids on a website.
+This extension matches ids through regex on the websites dom and adds a click handler to it.
+That click handler opens a new tab that points to an item that corrosponds to the id on another website.
 
 ## Install
 
